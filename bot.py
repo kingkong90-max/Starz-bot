@@ -4,7 +4,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMar
 from aiogram.utils import executor
 from datetime import datetime
 
-API_TOKEN = '7662511174:AAHY6PUN6ygOBnf6MdPOML1WmETNQ3yE--A'
+API_TOKEN = '7662511174:AAGTLAe3W5gxsqsZaKlE-xPWBIuSFkQ-ing'
 CHANNEL_ID = -1002288001129  # Channel for orders
 GROUP_ID = -1002378707943    # Verification group
 CHANNEL_USERNAME = 'https://t.me/Starz_mine_bot'
